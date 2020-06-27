@@ -1,4 +1,4 @@
-# Formal Genre Markers
+# Criteria -- Formal Genre Markers
 
 In this file I'm specifically looking for *formal genre markers*, which is not the same as merely mentioning the genre term in marketing copy or in review text.
 
