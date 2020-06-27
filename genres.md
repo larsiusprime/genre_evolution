@@ -8,6 +8,7 @@
 | Sports | 1987 | NES       | USA    | [The Official Nintendo Player's Guide](https://archive.org/details/The_Official_Nintendo_Players_Guide_1987) | Page 4 |
 | Sports | 1987 | Sega Master System | Europe | [Sega Master System Game Box Art](https://www.theoldcomputer.com/game-box-art-covers/index.php?folder=Sega/Master-System) | American Baseball, others |
 | Sports | 1988 | Sega Mega Drive | Japan | [Sega Mega Drive Game Box Art](https://www.pinterest.com/tonyshong/genesismd-box-art/) | |
+| Racing/Sports | 1988 | Sega Mega Drive | Japan | [Sega Mega Drive Game Box Art](https://www.pinterest.com/tonyshong/genesismd-box-art/) | |
 | Sports | 1991 | Game Boy  | USA    | [Nintendo Player's Guide Game Boy](https://archive.org/details/Nintendo_Players_Guide_Game_Boy/page/n1/mode/2up) | Page 1 |
 | Sports | 1992 | SNES      | USA    | [Nintendo Player's Guide SNES](https://archive.org/details/Nintendo_Players_Guide_SNES) | Page 1 |
 | Sports | 1997 | Sony PlayStation | USA  | [Official Playstation Magazine](https://archive.org/details/Official_US_PlayStation_Magazine_Volume_1_Issue_1_1997-10_Ziff_Davis_US/page/n1/mode/2up) | Volume 1, Issue 1 |
@@ -37,6 +38,7 @@
 | Action | 1987 | NES       | USA    | [The Official Nintendo Player's Guide](https://archive.org/details/The_Official_Nintendo_Players_Guide_1987) | Page 4 |
 | Action | 1987 | Sega Master System | Europe | [Sega Master System Game Box Art](https://www.theoldcomputer.com/game-box-art-covers/index.php?folder=Sega/Master-System) | Alex Kidd in Hi-Tech World, others |
 | Action | 1988 | Sega Mega Drive | Japan | [Sega Mega Drive Game Box Art](https://www.pinterest.com/tonyshong/genesismd-box-art/) | |
+| Action/Shooting | 1988 | Sega Mega Drive | Japan | [Sega Mega Drive Game Box Art](https://www.pinterest.com/tonyshong/genesismd-box-art/) | |
 | Action | 1991 | Game Boy  | USA    | [Nintendo Player's Guide Game Boy](https://archive.org/details/Nintendo_Players_Guide_Game_Boy/page/n1/mode/2up) | Page 1 |
 | Action | 1992 | SNES      | USA    | [Nintendo Player's Guide SNES](https://archive.org/details/Nintendo_Players_Guide_SNES) | Page 1 |
 | Action | 1997 | Sony PlayStation | USA  | [Official Playstation Magazine](https://archive.org/details/Official_US_PlayStation_Magazine_Volume_1_Issue_1_1997-10_Ziff_Davis_US/page/n1/mode/2up) | Volume 1, Issue 1 |
@@ -73,6 +75,7 @@
 | Hi-Res Adventure | 1983 | PC | USA | [Sierra On-Line Hi-Res Catalog 1983](https://www.sierragamers.com/wp-content/uploads/2019/12/Catalog_1983_Sierra_OnLine_Hi_Res_Catalog.pdf) | Page 1 |
 | 3D Animated Adventure Game | 1987 | PC | USA | [Sierra On-Line Software History Catalog 1987](https://www.sierragamers.com/wp-content/uploads/2019/12/Catalog_1987_Sierra_Catalog_Software_History.pdf) | |
 | Adventure | 1987 | NES    | USA    | [The Official Nintendo Player's Guide](https://archive.org/details/The_Official_Nintendo_Players_Guide_1987) | Page 4 |
+| Adventure Role-Playing | 1987 | Sega Master System | Europe | [Sega Master System Game Box Art](https://www.theoldcomputer.com/game-box-art-covers/index.php?folder=Sega/Master-System) | Dragon Crystal, Phantasy Star, others |
 | Adventure | 1988 | Sega Mega Drive | Japan | [Sega Mega Drive Game Box Art](https://www.pinterest.com/tonyshong/genesismd-box-art/) | |
 | Adventure | 1991 | Game Boy  | USA    | [Nintendo Player's Guide Game Boy](https://archive.org/details/Nintendo_Players_Guide_Game_Boy/page/n1/mode/2up) | Page 1 |
 | Adventure | 1992 | SNES      | USA    | [Nintendo Player's Guide SNES](https://archive.org/details/Nintendo_Players_Guide_SNES) | Page 1 |
@@ -124,6 +127,7 @@
 
 | Term   | Date | Platform  | Region | Publication | Citation |
 |--------|------|-----------|-------------------|--------|-------------|
+|**Misc**||||||
 | Robot | 1987 | NES        | USA    | [The Official Nintendo Player's Guide](https://archive.org/details/The_Official_Nintendo_Players_Guide_1987) | Page 4 |
 | Programmable | 1987 | NES | USA    | [The Official Nintendo Player's Guide](https://archive.org/details/The_Official_Nintendo_Players_Guide_1987) | Page 4 |
 | Compilation | 1997 | Sony PlayStation | USA  | [Official Playstation Magazine](https://archive.org/details/Official_US_PlayStation_Magazine_Volume_1_Issue_1_1997-10_Ziff_Davis_US/page/n1/mode/2up) | Volume 1, Issue 1 |
