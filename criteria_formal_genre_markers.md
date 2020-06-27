@@ -9,7 +9,7 @@ My criteria:
 - The markers can be simply words, or also iconography, so long as they're consistent
 - The size and duration of the defined collection doesn't really matter -- one issue of one magazine is sufficient as long as there's an obvious classification scheme
 - Formal genre markers *do not appear in isolation*, but appear as a defined set of markers that are applied consistently to a set of items, in order to differentiate them according to what we would now recognize as genre.
-- Merely describing a game with a genre marker in review or marketing copy does not constitute a formal genre marker.
+- Merely describing a game with a genre term in a review, marketing copy, or box art does not constitute a formal genre marker. There must be other titles that are using the same classification scheme to which the presentation of the genre term belongs.
 
 Example of formal genre marker:
 
